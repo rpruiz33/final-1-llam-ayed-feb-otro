@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1707571709 source:c:\temp\delete\prog\final_prog_feb2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"cliente.h"
+
+1707571498 source:c:\temp\delete\prog\final_prog_feb2024\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1707571775 c:\temp\delete\prog\final_prog_feb2024\cliente.h
+
+1707571498 source:c:\temp\delete\prog\final_prog_feb2024\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+
+1707571775 c:\temp\delete\prog\final_prog_feb2024\negocio.h
+
+1651638556 source:c:\temp\delete\prog\final_prog_feb2024\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1707571556 c:\temp\delete\prog\final_prog_feb2024\lista.h
+
+1710689139 source:c:\users\casar\desktop\final_prog_feb2024\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1710689139 c:\users\casar\desktop\final_prog_feb2024\lista.h
+	"cliente.h"
+
+1710689159 source:c:\users\casar\desktop\final_prog_feb2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"cliente.h"
+	"lista.h"
+
+1710689150 c:\users\casar\desktop\final_prog_feb2024\negocio.h
+	"lista.h"
+
+1710684144 c:\users\casar\desktop\final_prog_feb2024\cliente.h
+
+1710684170 source:c:\users\casar\desktop\final_prog_feb2024\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1710689657 source:c:\users\casar\desktop\final_prog_feb2024\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"lista.h"
+	"Cliente.h"
+
